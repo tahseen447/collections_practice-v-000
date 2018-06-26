@@ -17,6 +17,9 @@ def reverse
 
 end
 
+def kesha_maker
+end
+
 def find_a(array)
 end
 
@@ -25,4 +28,3 @@ end
 
 def add_s(array)
 end
-

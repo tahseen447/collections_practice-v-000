@@ -4,6 +4,7 @@ end
 
 def sort_array_desc(array)
   array.sort do |a, b|
-    if b>a return 1
+    if b>a
+      1
     end
 end

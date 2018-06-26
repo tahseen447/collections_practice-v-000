@@ -12,3 +12,6 @@ end
 
 def swap_elements(array)
 end
+
+def add_s(array)
+end

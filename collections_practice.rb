@@ -24,7 +24,7 @@ end
 
 def kesha_maker(array)
   collection = []
-  array.each do |element| 
+  array.each do |element|
     str = element
     str[2] = "$"
     collection << str
@@ -33,6 +33,7 @@ def kesha_maker(array)
 end
 
 def find_a(array)
+  array.select {|element| element[0] === "a"}
 end
 
 def sum_array(array)

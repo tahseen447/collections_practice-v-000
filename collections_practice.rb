@@ -13,11 +13,10 @@ end
 def swap_elements(array)
 end
 
-def reverse
-
+def reverse(array
 end
 
-def kesha_maker
+def kesha_maker(array)
 end
 
 def find_a(array)

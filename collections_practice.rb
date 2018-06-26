@@ -13,5 +13,8 @@ end
 def swap_elements(array)
 end
 
+def sum_array(array)
+end
+
 def add_s(array)
 end

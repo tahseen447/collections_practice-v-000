@@ -3,5 +3,6 @@ array.sort
 end
 
 def sort_array_desc(array)
-  array.sort {|a, b| b<a}
+  array.sort do |a, b|
+    if b>a return 1
 end

@@ -50,4 +50,5 @@ def add_s(array)
       collection << element+"s"
     end
   end
+  collection
 end
